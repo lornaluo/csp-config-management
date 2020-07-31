@@ -7,9 +7,6 @@ subjects:
   name: cheryl@foo-corp.com
   apiGroup: rbac.authorization.k8s.io
 - kind: User
-  name: lorna@foo-corp.com
-  apiGroup: rbac.authorization.k8s.io
-- kind: User
   name: apple@foo-corp.com
   apiGroup: rbac.authorization.k8s.io
 roleRef:
